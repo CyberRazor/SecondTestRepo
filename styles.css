@@ -27,3 +27,14 @@ img {
     border: solid orange 10px;
     border-radius:35px;
 }
+
+table,td,tr,th{
+    table-layout: auto;
+    width:auto;
+    border: solid rgb(58, 38, 2) 2px;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+#SEGA{
+    background-color: blue;
+}
