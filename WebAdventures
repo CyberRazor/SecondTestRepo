@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<header>
-</header>
-<head></head>
+<head>
+    <title>Web adventures of the unemployed</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
 <body>
     <h1>Welcome to the Taylorweb</h1>
     <h3>An idiots attempt to reskill</h3>
     <p>I guess I'll put <em>something</em> here as placeholder</p>
+    <img src="https://st.depositphotos.com/1158045/2403/i/450/depositphotos_24036255-stock-photo-funny-face.jpg">
+
 </body>
 </html>
