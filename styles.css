@@ -1,8 +1,11 @@
+body{
+    background-image: linear-gradient(rgb(253, 208, 123), red);
+}
 h1{
     text-decoration: underline;
     font-family: Impact;
     font-size: 45px;
-    color: orange;
+    color: orangered;
     text-align:center;
     background-color:rgb(95, 158, 231);
 }
@@ -28,13 +31,43 @@ img {
     border-radius:35px;
 }
 
+.tableimg{
+    display: block;
+    padding: 3px;
+    margin-left:auto;
+    margin-right: auto;
+    height: 180px;
+    width:180px;
+    border: solid blueviolet 3px;
+    border-radius:70px;
+
+}
+
+
 table,td,tr,th{
     table-layout: auto;
     width:auto;
     border: solid rgb(58, 38, 2) 2px;
-    font-family: Tahoma;
+    border-radius: 15px;
+    font-family: Helvetica;
     font-size: 20px;
+    text-align: center;
 }
-#SEGA{
-    background-color: blue;
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    width: 260px;
+}
+.SEGA{
+    background-color: #17569b;
+    color:white;
+    text-align: center;
+}
+.Fromsoft{
+    background-color: red;
+    color:white;
+
 }
